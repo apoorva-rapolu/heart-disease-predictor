@@ -38,7 +38,7 @@ Deploy instantly on [Streamlit Community Cloud](https://streamlit.io/cloud) (fre
 ## Run Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/heart-disease-predictor
+git clone https://github.com/apoorva-rapolu/heart-disease-predictor
 cd heart-disease-predictor
 pip install -r requirements.txt
 streamlit run app.py
