@@ -56,7 +56,7 @@ h1, h2, h3 { font-family: 'DM Serif Display', serif !important; }
     font-weight: 500;
     letter-spacing: 0.15em;
     text-transform: uppercase;
-    color: #8b5252;
+    color: #ff6666;
     margin-bottom: 1rem;
     margin-top: 2rem;
 }
@@ -65,19 +65,25 @@ div[data-testid="stNumberInput"] label,
 div[data-testid="stSelectbox"] label {
     font-size: 0.85rem !important;
     font-weight: 500 !important;
-    color: #3d2020 !important;
+    color: #ff6666 !important;
 }
 
 div[data-testid="stNumberInput"] input {
     border: 1.5px solid #e8d5d5 !important;
     border-radius: 8px !important;
     background: white !important;
+    color: black !important;
 }
 
 div[data-testid="stSelectbox"] > div > div {
     border: 1.5px solid #e8d5d5 !important;
     border-radius: 8px !important;
     background: white !important;
+    color: black !important;
+}
+
+div[data-testid="stSelectbox"] > div > div * {
+    color: black !important;
 }
 
 .predict-btn > button {
