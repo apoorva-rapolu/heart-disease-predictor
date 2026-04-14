@@ -73,7 +73,6 @@ div[data-testid="stNumberInput"] input {
     border-radius: 8px !important;
     background: white !important;
     color: black !important;
-    cursor: pointer !important;
 }
 
 div[data-testid="stSelectbox"] > div > div {
@@ -81,7 +80,6 @@ div[data-testid="stSelectbox"] > div > div {
     border-radius: 8px !important;
     background: white !important;
     color: black !important;
-    cursor: pointer !important;
 }
 
 div[data-testid="stSelectbox"] > div > div * {
@@ -98,7 +96,6 @@ div[data-testid="stSelectbox"] > div > div * {
     font-size: 1rem !important;
     font-weight: 500 !important;
     width: 100% !important;
-    cursor: pointer !important;
     transition: all 0.2s !important;
 }
 .predict-btn > button:hover {
