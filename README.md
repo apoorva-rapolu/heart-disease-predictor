@@ -7,7 +7,7 @@ A clinical decision-support web app that predicts heart disease risk using **Log
 ---
 
 ## Live Demo
-Deploy instantly on [Streamlit Community Cloud](https://streamlit.io/cloud) (free).
+[View Live Project](https://heart-disease-predictor-jpg4acyr38x2tsaqfsftab.streamlit.app/)
 
 ---
 
